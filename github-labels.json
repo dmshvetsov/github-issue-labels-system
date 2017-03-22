@@ -1,0 +1,22 @@
+[
+  {
+    "name": "type: question",
+    "color": "#00BCD4"
+  },
+  {
+    "name": "type: refactoring",
+    "color": "#4CAF50"
+  },
+  {
+    "name": "type: feature",
+    "color": "#FFC107"
+  },
+  {
+    "name": "type: support",
+    "color": "#FF5722"
+  },
+  {
+    "name":  "type: bug",
+    "color": "#F44336"
+  }
+]
